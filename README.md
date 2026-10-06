@@ -1,107 +1,121 @@
-# `>_` YOGESH S V
-
-### `Software Engineering × Cybersecurity`
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Building+Secure+Software;Backend+Engineering;Cybersecurity+%26+Ethical+Hacking;Learning+%7C+Building+%7C+Securing" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0a1f16,100:00ff9c&height=220&section=header&text=YOGESH%20S%20V&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%20%C3%97%20%20Cybersecurity&descAlignY=58&descSize=20&descColor=00ff9c"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yogi2306yo&label=PROFILE+VIEWS&color=00ff9c&style=flat-square" alt="Profile views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=Building+Secure+Software+Systems;Backend+Engineering+%7C+Cybersecurity;Python+%7C+Flask+%7C+SQL+%7C+Docker;Security+%7C+Automation+%7C+Cloud;Build.+Secure.+Test.+Deploy." />
+</p>
+
+<p align="center">
+  <a href="https://github.com/yogi2306yo">
+    <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00FF9C"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yogesh-s-v-4317193a">
+    <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00FF9C"/>
+  </a>
+  <a href="mailto:yogu23112006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00FF9C"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yogi2306yo&label=PROFILE+VIEWS&color=00ff9c&style=flat-square"/>
 </p>
 
 ---
 
-## `whoami`
-
-```bash
-┌──[yogesh@github]─[~]
-└─$ whoami
-
-Computer Science & Engineering Student
-Cybersecurity Enthusiast
-Backend Developer
-Software Engineering Learner
-```
-
-I'm a **Computer Science and Engineering student specializing in Cybersecurity**, interested in building software that is not only functional, but also **secure, reliable, and scalable**.
-
-My primary interests are **backend engineering, application security, databases, secure APIs, authentication, cryptography, and security automation**.
+# `> whoami`
 
 ```text
-BUILD → TEST → SECURE → DEPLOY → IMPROVE
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  YOGESH S V                                                  │
+│                                                              │
+│  Computer Science & Engineering — Cybersecurity               │
+│                                                              │
+│  Software Engineering                                       │
+│  Backend Development                                        │
+│  Cybersecurity                                               │
+│  Secure Application Development                             │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
----
+I'm a **Computer Science and Engineering student specializing in Cybersecurity**, interested in building software that is secure, scalable, and practical.
 
-## `> cat /about-me`
+My focus lies at the intersection of:
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│ ABOUT ME                                             │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│ 🎓  CSE — Cybersecurity                              │
-│ 💻  Software Engineering                             │
-│ 🔐  Cybersecurity & Application Security             │
-│ 🐍  Python / C                                       │
-│ ⚡  Backend & REST APIs                               │
-│ 🗄️  SQL / PostgreSQL / MongoDB                       │
-│ 🧪  Security Testing & Automation                     │
-│ 🚩  CTF & Hackathon Experience                        │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+SOFTWARE ENGINEERING
+        +
+BACKEND DEVELOPMENT
+        +
+CYBERSECURITY
+        +
+SYSTEM DESIGN
 ```
+
+I enjoy turning ideas into working systems while thinking about **security, reliability, testing, and maintainability** from the beginning.
 
 ---
 
-# `>_ TECH STACK`
+# `> tech_stack`
 
-### `PROGRAMMING`
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,sql" />
-</p>
-
-### `BACKEND & DATABASES`
+### LANGUAGES
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,postgres,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,c" />
 </p>
 
-### `TOOLS & DEVELOPMENT`
+### BACKEND
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=flask" />
 </p>
 
-### `SECURITY`
+### DATABASES
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" />
+</p>
+
+### TOOLS & DEVOPS
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
+
+### SECURITY
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│ 🔐 Application Security                             │
-│ 🔑 Authentication & Authorization                   │
-│ 👥 RBAC / MFA                                       │
-│ 🔒 Cryptography & Encryption                        │
-│ 🌐 API Security                                     │
-│ ☁️  Cloud Security                                  │
-│ 🧪 Security Testing                                 │
-│ 🚩 Ethical Hacking / CTF                            │
-│ 📋 Audit Logging                                    │
-└─────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  🔐 Application Security                                    │
+│  🔑 Authentication & Authorization                          │
+│  👥 RBAC / MFA                                               │
+│  🔒 Encryption & Cryptography                               │
+│  🌐 API Security                                             │
+│  ☁️  Cloud Security                                          │
+│  🧪 Security Testing                                         │
+│  🚩 Ethical Hacking / CTF                                    │
+│  📋 Audit Logging                                            │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# `>_ FEATURED PROJECTS`
+# `> featured_projects`
 
-## `01` — 🔐 Secure Evidence Management Platform
+## 🔐 Secure Evidence Management Platform
 
-> **Secure • Collaborative • Auditable**
+**Secure • Collaborative • Auditable**
 
-A security-focused platform designed for managing digital evidence with secure storage, controlled access, collaboration, and auditability.
+A security-focused platform designed for managing digital evidence with controlled access, encrypted storage, collaboration, and auditability.
 
-### `FEATURES`
+### Features
 
 ```text
 ✓ Authentication & Authorization
@@ -114,26 +128,22 @@ A security-focused platform designed for managing digital evidence with secure s
 ✓ Audit Logging
 ✓ Automated Security Testing
 ✓ Unit & Integration Testing
-✓ Professional Deployment Architecture
+✓ Production-oriented Deployment
 ```
 
-### `STACK`
+### Technology
 
-```text
-Python • Flask • PostgreSQL • MongoDB
-WebSockets • Cryptography • Docker
-REST APIs • Security Testing
-```
+`Python` `Flask` `PostgreSQL` `MongoDB` `WebSockets` `Docker` `Cryptography` `REST API`
 
 ---
 
-## `02` — 🏪 Inventory & POS Management System
+## 🏪 Inventory & POS Management System
 
-> **Manage • Track • Secure**
+**Manage • Track • Secure**
 
 A web-based inventory and point-of-sale system with authentication, database integration, product management, and sales operations.
 
-### `FEATURES`
+### Features
 
 ```text
 ✓ User Authentication
@@ -146,207 +156,223 @@ A web-based inventory and point-of-sale system with authentication, database int
 ✓ Secure Backend
 ```
 
-### `STACK`
+### Technology
 
-```text
-Python • Flask • SQL • SQLite
-HTML • CSS • REST APIs
-```
+`Python` `Flask` `SQL` `SQLite` `REST API`
 
 ---
 
-## `03` — 🤖 AI-Driven Business Continuity Platform
+## 🤖 AI-Driven Business Continuity Platform
 
-> **AI • Security • Resilience**
+**AI • Security • Resilience**
 
-A platform focused on business continuity with security controls designed to protect users, data, and system operations.
+A platform focused on business continuity with security controls for protecting users, data, and system operations.
 
-### `SECURITY`
+### Security
 
 ```text
-✓ RBAC
-✓ MFA
+✓ Role-Based Access Control
+✓ Multi-Factor Authentication
 ✓ Encryption
 ✓ Audit Logging
 ✓ Secure Authentication
 ✓ Access Control
 ```
 
-### `STACK`
+### Technology
+
+`Python` `AI/ML` `Flask` `Databases` `Cybersecurity`
+
+---
+
+# `> security_mindset`
+
+I believe security should be considered **during development**, not added at the end.
 
 ```text
-Python • AI/ML • Flask
-Databases • Cybersecurity
+          REQUIREMENTS
+                │
+                ▼
+          ARCHITECTURE
+                │
+                ▼
+        AUTHENTICATION
+                │
+                ▼
+        AUTHORIZATION
+                │
+                ▼
+        DATA PROTECTION
+                │
+                ▼
+        INPUT VALIDATION
+                │
+                ▼
+        SECURITY TESTING
+                │
+                ▼
+          DEPLOYMENT
+                │
+                ▼
+          MONITORING
+```
+
+### Security Interests
+
+```text
+Application Security
+API Security
+Authentication
+Authorization
+RBAC
+MFA
+Cryptography
+Secure Storage
+Cloud Security
+Security Testing
+Audit Logging
+Ethical Hacking
+CTF Challenges
 ```
 
 ---
 
-# `>_ SECURITY MINDSET`
-
-I approach development with security in mind from the beginning.
+# `> currently_learning`
 
 ```text
-                    SOFTWARE
-                       │
-                       ▼
-              ┌─────────────────┐
-              │   Architecture  │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │ Authentication  │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │ Authorization   │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │ Data Protection │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │ Security Tests  │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │    Deployment   │
-              └─────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  ███████████████████░░  Backend Engineering                  │
+│  ██████████████████░░░  Application Security                 │
+│  █████████████████░░░░  Secure API Development               │
+│  ████████████████░░░░░  Docker & Deployment                  │
+│  ███████████████░░░░░░  Cloud/Object Storage                 │
+│  ███████████████░░░░░░  WebSockets & Real-time Systems       │
+│  ██████████████░░░░░░░  Automated Security Testing            │
+│  █████████████░░░░░░░░  System Architecture                   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# `>_ CURRENTLY LEARNING`
+# `> engineering_principles`
 
 ```text
-[██████████████████░░] Backend Engineering
+01  Understand the problem
+02  Design before implementation
+03  Build modular systems
+04  Validate inputs
+05  Protect sensitive data
+06  Test functionality
+07  Test security
+08  Automate repetitive work
+09  Document the system
+10  Deploy and monitor
+```
 
-[████████████████░░░░] Application Security
+> **Good software works. Great software works securely.**
 
-[███████████████░░░░░] Secure API Development
+---
 
-[██████████████░░░░░░] Cloud & Object Storage
+# `> certifications`
 
-[██████████████░░░░░░] Docker & Deployment
+```text
+🛡️  Cisco Certified Ethical Hacker
 
-[████████████░░░░░░░░] Real-time WebSockets
+🏆  Hackathon Participant
 
-[████████████░░░░░░░░] Automated Security Testing
-
-[███████████░░░░░░░░░] System Architecture
+🚩  Capture The Flag (CTF) Participant
 ```
 
 ---
 
-# `>_ CERTIFICATIONS & ACHIEVEMENTS`
-
-```text
-┌─────────────────────────────────────────────┐
-│ 🛡️  Cisco Certified Ethical Hacker          │
-│                                             │
-│ 🏆  Hackathon Participant                   │
-│                                             │
-│ 🚩  Capture The Flag (CTF) Participant      │
-└─────────────────────────────────────────────┘
-```
-
----
-
-# `>_ DEVELOPMENT PHILOSOPHY`
-
-```text
-┌────────────────────────────────────────────────────┐
-│                                                    │
-│  "Good software works.                             │
-│   Great software works securely."                  │
-│                                                    │
-└────────────────────────────────────────────────────┘
-```
-
-```text
-01. Understand the problem
-02. Design the architecture
-03. Build the solution
-04. Test the implementation
-05. Identify vulnerabilities
-06. Harden the system
-07. Deploy
-08. Monitor and improve
-```
-
----
-
-# `>_ GITHUB ANALYTICS`
+# `> github_stats`
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yogi2306yo&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogi2306yo&layout=compact&hide_border=true&theme=github_dark" height="180"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=yogi2306yo&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogi2306yo&layout=compact&hide_border=true&theme=github_dark" height="175"/>
 </p>
 
 ---
 
-# `>_ CONTRIBUTION STREAK`
+# `> contribution_streak`
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=yogi2306yo&theme=github-dark-blue&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com?user=yogi2306yo&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
 
-# `>_ CONTRIBUTION GRAPH`
+# `> activity`
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogi2306yo&theme=github-compact&hide_border=true&area=true" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogi2306yo&theme=github-compact&hide_border=true&area=true"/>
 </p>
 
 ---
 
-# `>_ CURRENT MISSION`
+# `> career_focus`
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║  BUILD SECURE SYSTEMS                                ║
-║                                                      ║
-║  IMPROVE SOFTWARE ENGINEERING SKILLS                 ║
-║                                                      ║
-║  EXPLORE CYBERSECURITY                               ║
-║                                                      ║
-║  BUILD REAL-WORLD PROJECTS                           ║
-║                                                      ║
-║  BECOME INTERNSHIP READY                             ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  TARGET                                                     │
+│                                                              │
+│  💻 Software Engineering Internship                          │
+│  🔐 Cybersecurity Internship                                 │
+│                                                              │
+│  INTERESTS                                                  │
+│                                                              │
+│  • Backend Engineering                                       │
+│  • Secure Software Development                              │
+│  • Application Security                                      │
+│  • API Security                                              │
+│  • Cloud Security                                            │
+│  • Security Automation                                       │
+│  • System Architecture                                       │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# `>_ CONNECT`
+# `> mission`
+
+```text
+              BUILD
+                │
+                ▼
+             SECURE
+                │
+                ▼
+              TEST
+                │
+                ▼
+             DEPLOY
+                │
+                ▼
+             IMPROVE
+```
+
+### `BUILD • SECURE • TEST • DEPLOY`
+
+---
+
+# `> connect`
 
 <p align="center">
 
 <a href="https://github.com/yogi2306yo">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00FF9C"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yogesh-s-v-4317193a">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00FF9C"/>
 </a>
 
 <a href="mailto:yogu23112006@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00FF9C"/>
 </a>
 
 </p>
@@ -354,15 +380,5 @@ I approach development with security in mind from the beginning.
 ---
 
 <p align="center">
-
-```text
-┌────────────────────────────────────────────┐
-│                                            │
-│       BUILD  •  SECURE  •  LEARN          │
-│                                            │
-└────────────────────────────────────────────┘
-```
-
-### `>_ System status: ONLINE ●`
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:0a1f16,100:050505&height=120&section=footer"/>
 </p>
