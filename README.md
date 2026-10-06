@@ -1,555 +1,306 @@
-<!-- ============================================================
-     YOGESH S V  ::  DARK BLUE — PROFESSIONAL ENGINEERING  (v2)
-     Palette: #020617  #0B1220  #1E3A8A  #2563EB  #3B82F6  #60A5FA  #38BDF8
-     ============================================================ -->
+<!-- Dark Blue — Professional Engineering | Palette: #020617 #0B1220 #1E3A8A #2563EB #3B82F6 #60A5FA -->
 
 <a id="top"></a>
 
-<!-- ===================== HEADER ===================== -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0b1b4d,70:1e3a8a,100:2563eb&height=280&section=header&text=YOGESH%20S%20V&fontSize=68&fontColor=e2e8f0&fontAlignY=36&stroke=60a5fa&strokeWidth=1&desc=Software%20Engineering%20%C3%97%20Cybersecurity&descAlignY=58&descSize=22&descColor=93c5fd&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0b1b4d,100:2563eb&height=200&section=header&text=YOGESH%20S%20V&fontSize=56&fontColor=e2e8f0&fontAlignY=40&desc=Software%20Engineering%20%C3%97%20Cybersecurity&descAlignY=62&descSize=20&descColor=93c5fd" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=60A5FA&center=true&vCenter=true&width=860&height=50&lines=%3E+Building+Secure+Software+Systems;%3E+Backend+Engineering+%7C+Cybersecurity;%3E+Python+%7C+Flask+%7C+SQL+%7C+Docker;%3E+Security+%7C+Automation+%7C+Cloud;%3E+RBAC+%7C+MFA+%7C+Encryption+%7C+Audit+Logging;%3E+Build.+Secure.+Test.+Deploy." alt="typing banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&height=40&lines=Backend+engineering+%7C+Application+security;Python+%7C+Flask+%7C+PostgreSQL+%7C+Docker;Looking+for+software+and+security+internships" alt="intro"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/yogi2306yo">
-    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=60A5FA&labelColor=020617"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yogesh-s-v-4317193a">
-    <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=020617"/>
-  </a>
-  <a href="mailto:yogu23112006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=60A5FA&labelColor=020617"/>
-  </a>
+  <a href="#overview"><img src="https://img.shields.io/badge/OVERVIEW-0B1220?style=flat-square&labelColor=1E3A8A"/></a>
+  <a href="#stack"><img src="https://img.shields.io/badge/STACK-0B1220?style=flat-square&labelColor=1E3A8A"/></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-0B1220?style=flat-square&labelColor=1E3A8A"/></a>
+  <a href="#security"><img src="https://img.shields.io/badge/SECURITY-0B1220?style=flat-square&labelColor=1E3A8A"/></a>
+  <a href="#learning"><img src="https://img.shields.io/badge/LEARNING-0B1220?style=flat-square&labelColor=1E3A8A"/></a>
+  <a href="#activity"><img src="https://img.shields.io/badge/ACTIVITY-0B1220?style=flat-square&labelColor=1E3A8A"/></a>
+  <a href="#contact"><img src="https://img.shields.io/badge/CONTACT-0B1220?style=flat-square&labelColor=1E3A8A"/></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-2563EB?style=flat-square&labelColor=0B1220"/>
-  <img src="https://img.shields.io/badge/FOCUS-APPSEC%20%2B%20BACKEND-3B82F6?style=flat-square&labelColor=0B1220"/>
-  <img src="https://img.shields.io/badge/MODE-BUILD%20→%20SECURE%20→%20TEST-60A5FA?style=flat-square&labelColor=0B1220"/>
-  <img src="https://img.shields.io/badge/CERT-CISCO%20ETHICAL%20HACKER-38BDF8?style=flat-square&labelColor=0B1220"/>
-  <img src="https://komarev.com/ghpvc/?username=yogi2306yo&label=PROFILE+VIEWS&color=2563eb&style=flat-square&labelColor=0B1220"/>
-</p>
+<!-- ============ KPI STRIP ============ -->
 
-<!-- ===================== NAV ===================== -->
+<table width="100%">
+  <tr align="center">
+    <td width="25%"><img src="https://img.shields.io/badge/STATUS-Open%20to%20internships-2563EB?style=for-the-badge&labelColor=0B1220"/></td>
+    <td width="25%"><img src="https://img.shields.io/badge/FOCUS-Backend%20%26%20AppSec-3B82F6?style=for-the-badge&labelColor=0B1220"/></td>
+    <td width="25%"><img src="https://img.shields.io/badge/CERTIFIED-Cisco%20Ethical%20Hacker-60A5FA?style=for-the-badge&labelColor=0B1220"/></td>
+    <td width="25%"><img src="https://img.shields.io/badge/PROJECTS-3%20featured-38BDF8?style=for-the-badge&labelColor=0B1220"/></td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="#about"><img src="https://img.shields.io/badge/ABOUT-0B1220?style=flat-square&labelColor=1E3A8A&color=0B1220"/></a>
-  <a href="#stack"><img src="https://img.shields.io/badge/STACK-0B1220?style=flat-square&labelColor=1E3A8A&color=0B1220"/></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-0B1220?style=flat-square&labelColor=1E3A8A&color=0B1220"/></a>
-  <a href="#security"><img src="https://img.shields.io/badge/SECURITY-0B1220?style=flat-square&labelColor=1E3A8A&color=0B1220"/></a>
-  <a href="#learning"><img src="https://img.shields.io/badge/LEARNING-0B1220?style=flat-square&labelColor=1E3A8A&color=0B1220"/></a>
-  <a href="#stats"><img src="https://img.shields.io/badge/STATS-0B1220?style=flat-square&labelColor=1E3A8A&color=0B1220"/></a>
-  <a href="#connect"><img src="https://img.shields.io/badge/CONNECT-0B1220?style=flat-square&labelColor=1E3A8A&color=0B1220"/></a>
-</p>
+<!-- ============ OVERVIEW ============ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:3b82f6,100:020617&height=2" width="100%"/>
+<a id="overview"></a>
 
-<!-- ===================== BOOT ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1b4d,100:1e3a8a&height=34&text=OVERVIEW&fontSize=15&fontColor=bfdbfe&fontAlign=7&fontAlignY=52" width="100%"/>
 
-# `> boot_sequence`
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <b>About</b><br><br>
+      I'm a Computer Science and Engineering student specializing in Cybersecurity. I build backend systems and web applications in Python and Flask, and I try to get security, testing and maintainability right from the start instead of adding them at the end.<br><br>
+      I'm currently looking for software engineering and cybersecurity internships.
+    </td>
+    <td width="40%" valign="top">
+      <b>Snapshot</b><br><br>
+      <b>Field</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Computer Science &amp; Engineering<br>
+      <b>Specialization</b> &nbsp; Cybersecurity<br>
+      <b>Focus</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Backend, secure application development<br>
+      <b>Looking for</b> &nbsp; Software engineering and cybersecurity internships<br>
+      <b>Credentials</b> &nbsp; Cisco Certified Ethical Hacker, hackathon and CTF participant
+    </td>
+  </tr>
+</table>
 
-```bash
-yogesh@secure-dev:~$ sudo ./init_profile.sh
-
-[sudo] authenticating ........................... OK (MFA verified)
-[ OK ]  Loading identity ........................ YOGESH S V
-[ OK ]  Mounting domain ......................... Software Engineering × Cybersecurity
-[ OK ]  Starting service ........................ backend-engineering
-[ OK ]  Starting service ........................ application-security
-[ OK ]  Enabling modules ........................ RBAC · MFA · Encryption · Audit Logging
-[ OK ]  Loading toolchain ....................... Python · Flask · Docker · PostgreSQL
-[ OK ]  Security posture ........................ SHIFT-LEFT ENABLED
-[ >> ]  Status .................................. OPEN TO INTERNSHIPS
-
-yogesh@secure-dev:~$ _
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:3b82f6,100:020617&height=2" width="100%"/>
-
-<!-- ===================== ABOUT ===================== -->
-
-<a id="about"></a>
-
-# `> whoami`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║  ▓▓▓  IDENTITY CARD  ▓▓▓                                     ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   NAME      :  YOGESH S V                                    ║
-║   FIELD     :  Computer Science & Engineering                ║
-║   SPECIAL   :  Cybersecurity                                 ║
-║                                                              ║
-║   ROLES     :  Software Engineering                          ║
-║                Backend Development                           ║
-║                Secure Application Development                ║
-║                                                              ║
-║   CLEARANCE :  Cisco Certified Ethical Hacker                ║
-║   STATUS    :  ● ONLINE  —  seeking internships              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-I'm a **Computer Science and Engineering student specializing in Cybersecurity**, interested in building software that is secure, scalable, and practical.
-
-```python
-class Yogesh(Engineer, SecurityEnthusiast):
-    """Turning ideas into working systems — securely."""
-
-    name        = "Yogesh S V"
-    field       = "Computer Science & Engineering (Cybersecurity)"
-    languages   = ["Python", "C"]
-    backend     = ["Flask", "REST APIs", "WebSockets"]
-    databases   = ["PostgreSQL", "MongoDB", "SQLite"]
-    devops      = ["Docker", "Linux", "Git", "GitHub"]
-    security    = ["AppSec", "AuthN/AuthZ", "RBAC", "MFA", "Cryptography", "Audit Logging"]
-    mindset     = "Security from day one, not an afterthought"
-    seeking     = ["Software Engineering Internship", "Cybersecurity Internship"]
-
-    def build(self):
-        return self.design().implement().secure().test().deploy().improve()
-```
-
-My focus lies at the intersection of:
-
-```text
-   ┌────────────────────┐      ┌────────────────────┐
-   │ SOFTWARE           │      │ BACKEND            │
-   │ ENGINEERING        │  ✚   │ DEVELOPMENT        │
-   └────────────────────┘      └────────────────────┘
-                 ✚                       ✚
-   ┌────────────────────┐      ┌────────────────────┐
-   │ CYBERSECURITY      │  ✚   │ SYSTEM DESIGN      │
-   └────────────────────┘      └────────────────────┘
-```
-
-I enjoy turning ideas into working systems while thinking about **security, reliability, testing, and maintainability** from the beginning.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:3b82f6,100:020617&height=2" width="100%"/>
-
-<!-- ===================== STACK ===================== -->
+<!-- ============ STACK ============ -->
 
 <a id="stack"></a>
 
-# `> tech_stack`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1b4d,100:1e3a8a&height=34&text=TECH%20STACK&fontSize=15&fontColor=bfdbfe&fontAlign=7&fontAlignY=52" width="100%"/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧬 LANGUAGES
-<img src="https://skillicons.dev/icons?i=python,c&theme=dark" />
-
-### ⚙️ BACKEND
-<img src="https://skillicons.dev/icons?i=flask&theme=dark" />
-
-### 🗄️ DATABASES
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite&theme=dark" />
-
-### 🛠️ TOOLS & DEVOPS
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ SECURITY
-
-```text
-┌─────────────────────────────────────────┐
-│  🔐  Application Security               │
-│  🔑  Authentication & Authorization     │
-│  👥  RBAC / MFA                         │
-│  🔒  Encryption & Cryptography          │
-│  🌐  API Security                       │
-│  ☁️   Cloud Security                     │
-│  🧪  Security Testing                   │
-│  🚩  Ethical Hacking / CTF              │
-│  📋  Audit Logging                      │
-└─────────────────────────────────────────┘
-```
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="16%"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,c&theme=dark" height="40"/></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flask&theme=dark" height="40"/>
+      &nbsp;<img src="https://img.shields.io/badge/REST%20API-0B1220?style=flat-square&labelColor=1E3A8A"/>
+      <img src="https://img.shields.io/badge/WebSockets-0B1220?style=flat-square&labelColor=1E3A8A"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite&theme=dark" height="40"/></td>
+  </tr>
+  <tr>
+    <td><b>Tools &amp; DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" height="40"/></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Security</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Application%20Security-0B1220?style=flat-square&labelColor=2563EB"/>
+      <img src="https://img.shields.io/badge/Authentication%20%26%20Authorization-0B1220?style=flat-square&labelColor=2563EB"/>
+      <img src="https://img.shields.io/badge/RBAC%20%2F%20MFA-0B1220?style=flat-square&labelColor=2563EB"/>
+      <img src="https://img.shields.io/badge/Encryption%20%26%20Cryptography-0B1220?style=flat-square&labelColor=2563EB"/>
+      <img src="https://img.shields.io/badge/API%20Security-0B1220?style=flat-square&labelColor=2563EB"/>
+      <img src="https://img.shields.io/badge/Cloud%20Security-0B1220?style=flat-square&labelColor=2563EB"/>
+      <img src="https://img.shields.io/badge/Security%20Testing-0B1220?style=flat-square&labelColor=2563EB"/>
+      <img src="https://img.shields.io/badge/Ethical%20Hacking%20%2F%20CTF-0B1220?style=flat-square&labelColor=2563EB"/>
+      <img src="https://img.shields.io/badge/Audit%20Logging-0B1220?style=flat-square&labelColor=2563EB"/>
+    </td>
+  </tr>
 </table>
 
-### 📡 Service Scan
-
-```text
-$ nmap -sV yogesh.dev
-
-PORT       STATE  SERVICE          NOTES
-22/tcp     open   linux            daily driver
-443/tcp    open   secure-api       encrypted, authenticated, audited
-5000/tcp   open   flask-backend    REST + WebSockets
-5432/tcp   open   postgresql       relational data
-27017/tcp  open   mongodb          document data
-2375/tcp   closed docker           containerised & locked down
-
-Scan complete: 6 services analysed — 0 shortcuts taken
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:3b82f6,100:020617&height=2" width="100%"/>
-
-<!-- ===================== PROJECTS ===================== -->
+<!-- ============ PROJECTS ============ -->
 
 <a id="projects"></a>
 
-# `> featured_projects`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1b4d,100:1e3a8a&height=34&text=FEATURED%20PROJECTS&fontSize=15&fontColor=bfdbfe&fontAlign=7&fontAlignY=52" width="100%"/>
 
-<table>
-<tr>
-<td width="100%">
-
-## 🔐 Secure Evidence Management Platform
-
-![Type](https://img.shields.io/badge/TYPE-SECURITY%20PLATFORM-2563EB?style=for-the-badge&labelColor=0B1220)
-![Focus](https://img.shields.io/badge/SECURE%20•%20COLLABORATIVE%20•%20AUDITABLE-3B82F6?style=for-the-badge&labelColor=0B1220)
-
-A security-focused platform designed for managing digital evidence with controlled access, encrypted storage, collaboration, and auditability.
-
-```text
-✓ Authentication & Authorization      ✓ Real-time Multi-user Collaboration
-✓ Role-Based Access Control           ✓ WebSocket Communication
-✓ Multi-Factor Authentication         ✓ Audit Logging
-✓ Encrypted Evidence Storage          ✓ Automated Security Testing
-✓ Secure Cloud/Object Storage         ✓ Unit & Integration Testing
-✓ Production-oriented Deployment
-```
-
-<details>
-<summary><b>🧭 High-level architecture (click to expand)</b></summary>
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0B1220','primaryTextColor':'#E2E8F0','primaryBorderColor':'#3B82F6','lineColor':'#60A5FA','secondaryColor':'#1E3A8A','tertiaryColor':'#020617','fontFamily':'monospace'}}}%%
-flowchart LR
-    U[👤 Users] -->|HTTPS / WebSocket| API[Flask API]
-    API --> AUTH[AuthN · MFA · RBAC]
-    AUTH --> SVC[Evidence Services]
-    SVC --> DB[(PostgreSQL)]
-    SVC --> DOC[(MongoDB)]
-    SVC --> OBJ[(Encrypted Object Storage)]
-    SVC --> LOG[📋 Audit Log]
-    API -.real-time.-> WS[WebSocket Collaboration]
-```
-
-</details>
-
-![Python](https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=60A5FA)
-![Flask](https://img.shields.io/badge/Flask-0B1220?style=flat-square&logo=flask&logoColor=60A5FA)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1220?style=flat-square&logo=postgresql&logoColor=60A5FA)
-![MongoDB](https://img.shields.io/badge/MongoDB-0B1220?style=flat-square&logo=mongodb&logoColor=60A5FA)
-![WebSockets](https://img.shields.io/badge/WebSockets-0B1220?style=flat-square&logo=socketdotio&logoColor=60A5FA)
-![Docker](https://img.shields.io/badge/Docker-0B1220?style=flat-square&logo=docker&logoColor=60A5FA)
-![Cryptography](https://img.shields.io/badge/Cryptography-0B1220?style=flat-square&logo=letsencrypt&logoColor=60A5FA)
-![REST API](https://img.shields.io/badge/REST%20API-0B1220?style=flat-square&logo=fastapi&logoColor=60A5FA)
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🔐 Secure Evidence Management Platform</h3>
+      <sub><b>SECURE · COLLABORATIVE · AUDITABLE</b></sub><br><br>
+      A security-focused platform for managing digital evidence with controlled access, encrypted storage, collaboration and auditability.<br><br>
+      <ul>
+        <li>Authentication, authorization, RBAC and MFA</li>
+        <li>Encrypted evidence storage on cloud/object storage</li>
+        <li>Real-time multi-user collaboration over WebSockets</li>
+        <li>Audit logging</li>
+        <li>Automated security testing, unit and integration tests</li>
+        <li>Production-oriented deployment</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=60A5FA"/>
+      <img src="https://img.shields.io/badge/Flask-0B1220?style=flat-square&logo=flask&logoColor=60A5FA"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-0B1220?style=flat-square&logo=postgresql&logoColor=60A5FA"/>
+      <img src="https://img.shields.io/badge/MongoDB-0B1220?style=flat-square&logo=mongodb&logoColor=60A5FA"/>
+      <img src="https://img.shields.io/badge/WebSockets-0B1220?style=flat-square&logo=socketdotio&logoColor=60A5FA"/>
+      <img src="https://img.shields.io/badge/Docker-0B1220?style=flat-square&logo=docker&logoColor=60A5FA"/>
+      <img src="https://img.shields.io/badge/Cryptography-0B1220?style=flat-square&logo=letsencrypt&logoColor=60A5FA"/>
+      <img src="https://img.shields.io/badge/REST%20API-0B1220?style=flat-square&logoColor=60A5FA"/>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🏪 Inventory &amp; POS Management System</h3>
+      <sub><b>MANAGE · TRACK · SECURE</b></sub><br><br>
+      A web-based inventory and point-of-sale system with authentication, database integration, product management and sales operations.<br><br>
+      <ul>
+        <li>User authentication and role-based access</li>
+        <li>Product management and inventory tracking</li>
+        <li>Sales management</li>
+        <li>CRUD operations with database integration</li>
+        <li>Secure backend</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=60A5FA"/>
+      <img src="https://img.shields.io/badge/Flask-0B1220?style=flat-square&logo=flask&logoColor=60A5FA"/>
+      <img src="https://img.shields.io/badge/SQL-0B1220?style=flat-square&logoColor=60A5FA"/>
+      <img src="https://img.shields.io/badge/SQLite-0B1220?style=flat-square&logo=sqlite&logoColor=60A5FA"/>
+      <img src="https://img.shields.io/badge/REST%20API-0B1220?style=flat-square&logoColor=60A5FA"/>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤖 AI-Driven Business Continuity Platform</h3>
+      <sub><b>AI · SECURITY · RESILIENCE</b></sub><br><br>
+      A business continuity platform with security controls that protect users, data and system operations.<br><br>
+      <ul>
+        <li>Role-based access control and access control</li>
+        <li>Multi-factor and secure authentication</li>
+        <li>Encryption</li>
+        <li>Audit logging</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=60A5FA"/>
+      <img src="https://img.shields.io/badge/AI%2FML-0B1220?style=flat-square&logoColor=60A5FA"/>
+      <img src="https://img.shields.io/badge/Flask-0B1220?style=flat-square&logo=flask&logoColor=60A5FA"/>
+      <img src="https://img.shields.io/badge/Databases-0B1220?style=flat-square&logoColor=60A5FA"/>
+      <img src="https://img.shields.io/badge/Cybersecurity-0B1220?style=flat-square&logoColor=60A5FA"/>
+    </td>
+  </tr>
 </table>
 
-<table>
-<tr>
-<td width="100%">
-
-## 🏪 Inventory & POS Management System
-
-![Type](https://img.shields.io/badge/TYPE-WEB%20APPLICATION-2563EB?style=for-the-badge&labelColor=0B1220)
-![Focus](https://img.shields.io/badge/MANAGE%20•%20TRACK%20•%20SECURE-3B82F6?style=for-the-badge&labelColor=0B1220)
-
-A web-based inventory and point-of-sale system with authentication, database integration, product management, and sales operations.
-
-```text
-✓ User Authentication        ✓ Sales Management
-✓ Role-Based Access          ✓ CRUD Operations
-✓ Product Management         ✓ Database Integration
-✓ Inventory Tracking         ✓ Secure Backend
-```
-
-![Python](https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=60A5FA)
-![Flask](https://img.shields.io/badge/Flask-0B1220?style=flat-square&logo=flask&logoColor=60A5FA)
-![SQL](https://img.shields.io/badge/SQL-0B1220?style=flat-square&logo=mysql&logoColor=60A5FA)
-![SQLite](https://img.shields.io/badge/SQLite-0B1220?style=flat-square&logo=sqlite&logoColor=60A5FA)
-![REST API](https://img.shields.io/badge/REST%20API-0B1220?style=flat-square&logo=fastapi&logoColor=60A5FA)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="100%">
-
-## 🤖 AI-Driven Business Continuity Platform
-
-![Type](https://img.shields.io/badge/TYPE-AI%20%2B%20SECURITY-2563EB?style=for-the-badge&labelColor=0B1220)
-![Focus](https://img.shields.io/badge/AI%20•%20SECURITY%20•%20RESILIENCE-3B82F6?style=for-the-badge&labelColor=0B1220)
-
-A platform focused on business continuity with security controls for protecting users, data, and system operations.
-
-```text
-✓ Role-Based Access Control      ✓ Audit Logging
-✓ Multi-Factor Authentication    ✓ Secure Authentication
-✓ Encryption                     ✓ Access Control
-```
-
-![Python](https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=60A5FA)
-![AI/ML](https://img.shields.io/badge/AI%2FML-0B1220?style=flat-square&logo=tensorflow&logoColor=60A5FA)
-![Flask](https://img.shields.io/badge/Flask-0B1220?style=flat-square&logo=flask&logoColor=60A5FA)
-![Databases](https://img.shields.io/badge/Databases-0B1220?style=flat-square&logo=postgresql&logoColor=60A5FA)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0B1220?style=flat-square&logo=hackthebox&logoColor=60A5FA)
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/yogi2306yo?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-→-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1220"/>
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:3b82f6,100:020617&height=2" width="100%"/>
-
-<!-- ===================== SECURITY ===================== -->
+<!-- ============ SECURITY ============ -->
 
 <a id="security"></a>
 
-# `> security_mindset`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1b4d,100:1e3a8a&height=34&text=SECURITY%20PRACTICES&fontSize=15&fontColor=bfdbfe&fontAlign=7&fontAlignY=52" width="100%"/>
 
-I believe security should be considered **during development**, not added at the end.
+I treat security as part of development, not a final step. This is where each control shows up in my projects:
+
+| Practice | Evidence Platform | Inventory & POS | Business Continuity |
+|:--|:--:|:--:|:--:|
+| Authentication | ✅ | ✅ | ✅ |
+| Multi-factor authentication | ✅ | – | ✅ |
+| Role-based access control | ✅ | ✅ | ✅ |
+| Encryption | ✅ | – | ✅ |
+| Audit logging | ✅ | – | ✅ |
+| Automated security testing | ✅ | – | – |
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0B1220','primaryTextColor':'#E2E8F0','primaryBorderColor':'#3B82F6','lineColor':'#60A5FA','secondaryColor':'#1E3A8A','tertiaryColor':'#020617','fontFamily':'monospace'}}}%%
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0B1220','primaryTextColor':'#E2E8F0','primaryBorderColor':'#3B82F6','lineColor':'#60A5FA','fontFamily':'monospace'}}}%%
 flowchart LR
     A[Requirements] --> B[Architecture]
-    B --> C[Authentication]
-    C --> D[Authorization]
-    D --> E[Data Protection]
-    E --> F[Input Validation]
-    F --> G[Security Testing]
-    G --> H[Deployment]
-    H --> I[Monitoring]
-    I -.feedback.-> A
+    B --> C[AuthN / AuthZ]
+    C --> D[Data protection]
+    D --> E[Input validation]
+    E --> F[Security testing]
+    F --> G[Deploy + monitor]
+    G -.-> A
 ```
 
-### 🧅 Defense in Depth
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║  MONITORING & AUDIT LOGGING                              ║
-║  ╔════════════════════════════════════════════════════╗  ║
-║  ║  API SECURITY & INPUT VALIDATION                   ║  ║
-║  ║  ╔══════════════════════════════════════════════╗  ║  ║
-║  ║  ║  AUTHENTICATION · MFA · RBAC                 ║  ║  ║
-║  ║  ║  ╔════════════════════════════════════════╗  ║  ║  ║
-║  ║  ║  ║  ENCRYPTION & SECURE STORAGE           ║  ║  ║  ║
-║  ║  ║  ║         ┌──────────────────┐           ║  ║  ║  ║
-║  ║  ║  ║         │   🔒  YOUR DATA  │           ║  ║  ║  ║
-║  ║  ║  ║         └──────────────────┘           ║  ║  ║  ║
-║  ║  ║  ╚════════════════════════════════════════╝  ║  ║  ║
-║  ║  ╚══════════════════════════════════════════════╝  ║  ║
-║  ╚════════════════════════════════════════════════════╝  ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-### 🎯 Threat Modeling Lens (STRIDE)
-
-| Threat | Question I ask | Typical control |
-|:--|:--|:--|
-| **S**poofing | Who is really making this request? | Authentication · MFA |
-| **T**ampering | Can data be changed unnoticed? | Validation · Integrity checks |
-| **R**epudiation | Can an action be denied later? | Audit logging |
-| **I**nformation disclosure | Who can read this? | Encryption · RBAC |
-| **D**enial of service | What happens under load or abuse? | Rate limiting · Resilience |
-| **E**levation of privilege | Can a user exceed their role? | Authorization · Least privilege |
-
-### 🔎 Security Interests
-
-```text
-┌───────────────────────────┬───────────────────────────┐
-│  Application Security     │  Cryptography             │
-│  API Security             │  Secure Storage           │
-│  Authentication           │  Cloud Security           │
-│  Authorization            │  Security Testing         │
-│  RBAC                     │  Audit Logging            │
-│  MFA                      │  Ethical Hacking / CTF    │
-└───────────────────────────┴───────────────────────────┘
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:3b82f6,100:020617&height=2" width="100%"/>
-
-<!-- ===================== LEARNING ===================== -->
+<!-- ============ LEARNING + PRINCIPLES ============ -->
 
 <a id="learning"></a>
 
-# `> currently_learning`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1b4d,100:1e3a8a&height=34&text=CURRENTLY%20LEARNING%20%26%20PRINCIPLES&fontSize=15&fontColor=bfdbfe&fontAlign=7&fontAlignY=52" width="100%"/>
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  SYSTEM MONITOR  ::  skill_load                              │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  ███████████████████░░  Backend Engineering                  │
-│  ██████████████████░░░  Application Security                 │
-│  █████████████████░░░░  Secure API Development               │
-│  ████████████████░░░░░  Docker & Deployment                  │
-│  ███████████████░░░░░░  Cloud/Object Storage                 │
-│  ███████████████░░░░░░  WebSockets & Real-time Systems       │
-│  ██████████████░░░░░░░  Automated Security Testing           │
-│  █████████████░░░░░░░░  System Architecture                  │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <b>Currently learning</b>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:3b82f6,100:020617&height=2" width="100%"/>
+| Topic | Progress |
+|:--|:--|
+| Backend Engineering | `███████████████████░░` |
+| Application Security | `██████████████████░░░` |
+| Secure API Development | `█████████████████░░░░` |
+| Docker & Deployment | `████████████████░░░░░` |
+| Cloud / Object Storage | `███████████████░░░░░░` |
+| WebSockets & Real-time | `███████████████░░░░░░` |
+| Automated Security Testing | `██████████████░░░░░░░` |
+| System Architecture | `█████████████░░░░░░░░` |
 
-# `> engineering_principles`
+    </td>
+    <td width="45%" valign="top">
+      <b>How I work</b>
 
-```text
- 01 ▸ Understand the problem        06 ▸ Test functionality
- 02 ▸ Design before implementation  07 ▸ Test security
- 03 ▸ Build modular systems         08 ▸ Automate repetitive work
- 04 ▸ Validate inputs               09 ▸ Document the system
- 05 ▸ Protect sensitive data        10 ▸ Deploy and monitor
-```
+1. Understand the problem
+2. Design before implementation
+3. Build modular systems
+4. Validate inputs
+5. Protect sensitive data
+6. Test functionality
+7. Test security
+8. Automate repetitive work
+9. Document the system
+10. Deploy and monitor
 
-> **💠 Good software works. Great software works securely.**
+    </td>
+  </tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:3b82f6,100:020617&height=2" width="100%"/>
+> **Good software works. Great software works securely.**
 
-# `> certifications`
+<!-- ============ ACTIVITY ============ -->
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   🛡️   Cisco Certified Ethical Hacker                        ║
-║                                                              ║
-║   🏆   Hackathon Participant                                 ║
-║                                                              ║
-║   🚩   Capture The Flag (CTF) Participant                    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<a id="activity"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:3b82f6,100:020617&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1b4d,100:1e3a8a&height=34&text=GITHUB%20ACTIVITY&fontSize=15&fontColor=bfdbfe&fontAlign=7&fontAlignY=52" width="100%"/>
 
-<!-- ===================== STATS ===================== -->
+<table width="100%">
+  <tr align="center">
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=yogi2306yo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0B1220&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&ring_color=2563EB" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogi2306yo&layout=compact&hide_border=true&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1" width="100%"/>
+    </td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">
+      <img src="https://streak-stats.demolab.com?user=yogi2306yo&hide_border=true&background=0B1220&ring=3B82F6&fire=60A5FA&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B"/>
+    </td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogi2306yo&bg_color=0B1220&color=60A5FA&line=3B82F6&point_color=E2E8F0&area_color=1E3A8A&area=true&hide_border=true&title_color=60A5FA" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-<a id="stats"></a>
+<!-- ============ CONTACT ============ -->
 
-# `> github_stats`
+<a id="contact"></a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogi2306yo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0B1220&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&ring_color=2563EB" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogi2306yo&layout=compact&hide_border=true&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1" height="175"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1b4d,100:1e3a8a&height=34&text=CAREER%20FOCUS%20%26%20CONTACT&fontSize=15&fontColor=bfdbfe&fontAlign=7&fontAlignY=52" width="100%"/>
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yogi2306yo&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
-</p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yogi2306yo&hide_border=true&background=0B1220&ring=3B82F6&fire=60A5FA&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B"/>
-</p>
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogi2306yo&bg_color=0B1220&color=60A5FA&line=3B82F6&point_color=E2E8F0&area_color=1E3A8A&area=true&hide_border=true&title_color=60A5FA"/>
-</p>
-
-<!--
-  OPTIONAL — animated contribution snake
-  1. Add the "Platane/snk" GitHub Action to .github/workflows/snake.yml in this repo
-     (output: dist/github-contribution-grid-snake-dark.svg on an "output" branch)
-  2. Then uncomment the block below:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yogi2306yo/yogi2306yo/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
--->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:3b82f6,100:020617&height=2" width="100%"/>
-
-# `> career_focus`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  TARGET                                                      ║
-║    💻  Software Engineering Internship                       ║
-║    🔐  Cybersecurity Internship                              ║
-║                                                              ║
-║  INTERESTS                                                   ║
-║    ▸ Backend Engineering          ▸ Cloud Security           ║
-║    ▸ Secure Software Development  ▸ Security Automation      ║
-║    ▸ Application Security         ▸ System Architecture      ║
-║    ▸ API Security                                            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:3b82f6,100:020617&height=2" width="100%"/>
-
-# `> mission`
-
-```text
-   ┌───────┐   ┌────────┐   ┌──────┐   ┌────────┐   ┌─────────┐
-   │ BUILD │ ▶ │ SECURE │ ▶ │ TEST │ ▶ │ DEPLOY │ ▶ │ IMPROVE │
-   └───────┘   └────────┘   └──────┘   └────────┘   └─────────┘
-       ▲                                                  │
-       └──────────────────────────────────────────────────┘
-```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BUILD-2563EB?style=for-the-badge&labelColor=0B1220"/>
-  <img src="https://img.shields.io/badge/SECURE-3B82F6?style=for-the-badge&labelColor=0B1220"/>
-  <img src="https://img.shields.io/badge/TEST-60A5FA?style=for-the-badge&labelColor=0B1220"/>
-  <img src="https://img.shields.io/badge/DEPLOY-38BDF8?style=for-the-badge&labelColor=0B1220"/>
-  <img src="https://img.shields.io/badge/IMPROVE-93C5FD?style=for-the-badge&labelColor=0B1220"/>
-</p>
-
-<!-- ===================== CONNECT ===================== -->
-
-<a id="connect"></a>
-
-# `> connect`
-
-```bash
-yogesh@secure-dev:~$ ssh connect@yogesh --open-to-collab
-> Handshake complete. Encrypted channel established.
-> Open to: internships · collaboration · secure-by-design projects
-> Let's build something secure.
-```
-
-<p align="center">
-  <a href="https://github.com/yogi2306yo">
-    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=60A5FA&labelColor=020617"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yogesh-s-v-4317193a">
-    <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=020617"/>
-  </a>
-  <a href="mailto:yogu23112006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=60A5FA&labelColor=020617"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=640&lines=%2F%2F+Good+software+works.+Great+software+works+securely.;%2F%2F+Build.+Secure.+Test.+Deploy.+Improve." alt="footer quote"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="40%" valign="top">
+      <b>Target roles</b>
+      <ul>
+        <li>Software Engineering Internship</li>
+        <li>Cybersecurity Internship</li>
+      </ul>
+    </td>
+    <td width="30%" valign="top">
+      <b>Interests</b>
+      <ul>
+        <li>Backend engineering</li>
+        <li>Secure software development</li>
+        <li>Application and API security</li>
+        <li>Cloud security</li>
+        <li>Security automation</li>
+        <li>System architecture</li>
+      </ul>
+    </td>
+    <td width="30%" valign="top" align="center">
+      <b>Get in touch</b><br><br>
+      <a href="https://github.com/yogi2306yo"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=60A5FA&labelColor=020617"/></a><br><br>
+      <a href="https://www.linkedin.com/in/yogesh-s-v-4317193a"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=020617"/></a><br><br>
+      <a href="mailto:yogu23112006@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=60A5FA&labelColor=020617"/></a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="#top"><img src="https://img.shields.io/badge/%E2%86%91%20BACK%20TO%20TOP-0B1220?style=flat-square&labelColor=1E3A8A"/></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=yogi2306yo&label=PROFILE+VIEWS&color=2563eb&style=flat-square&labelColor=0B1220"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0b1b4d,100:020617&height=160&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0b1b4d,100:020617&height=100&section=footer" width="100%"/>
